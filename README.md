@@ -1,2 +1,2 @@
 # Covid-19-tracker
-Flask Application with Postman API
+Flask app integrated with Postman API
